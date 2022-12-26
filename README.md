@@ -1,6 +1,6 @@
 # Korean-news-classification-using-BiLSTM
 
-**KBS News category classification using deep learning**
+***KBS News category classification using deep learning***
 
 This simple project categorizes Korean based internet news using Bi-LSTM.  
 See requirements.txt before testing and check detail through source code👀
