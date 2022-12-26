@@ -5,7 +5,8 @@
 This simple project categorizes Korean based internet news using Bi-LSTM.  
 See requirements.txt before testing and check detail through source code👀
 
-## 1_crawling
+## 1_crawling  
+**If you want to just test deep learning, you may omit 1, 2 parts.**
 - Use this URL ↓↓  
 https://news.kbs.co.kr/news/view.do?ncd=6000327  
 - Check HTML source  
@@ -17,7 +18,8 @@ https://news.kbs.co.kr/news/view.do?ncd=6000327
 ![html_check_2](https://user-images.githubusercontent.com/120359150/209502682-06827b7f-c46d-4690-89e8-bf64b63c395c.png)  
 
 ## 2_Structure
-:telescope: If you want to test data analysis parts(konply, wordcloud, ...), Plz see this url: https://prlabhotelshoe.tistory.com/18
+:telescope: If you want to test data analysis parts(konply, wordcloud, ...), Plz see this url: https://prlabhotelshoe.tistory.com/18  
 
-## 3_Train & Evaluation
+## 3_Train & Evaluation  
+
 In this project case, just used only Bi-LSTM. If you have a good idea, try applying!
