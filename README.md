@@ -23,3 +23,6 @@ https://news.kbs.co.kr/news/view.do?ncd=6000327
 ## 3_Train & Evaluation  
 
 In this project case, just used only Bi-LSTM. If you have a good idea, try applying!
+
+## 4_Test  
+![1333](https://user-images.githubusercontent.com/120359150/215250605-4755db18-55b0-4ad0-908b-bf585b76321b.png)
